@@ -1,0 +1,37 @@
+body{
+    background-color: #E5E5E5;
+
+}
+header{
+    text-align: center;
+}
+.batman{
+    background-color: #E6E6E6;
+}
+.titulo{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-size: 35px;
+    letter-spacing:29.68px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.datosPersonales{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-size: 20px;
+    letter-spacing: 16.94px;
+    text-transform: uppercase;
+}
+/* negrita datos personales */
+span{
+    font-weight: bold;
+}
+/* saco los puntos a las listas */
+.sinPunto li{
+    list-style: none;
+}
+footer{
+    background-color: #005677;
+    text-align: center;
+}
